@@ -16,4 +16,4 @@ https://yuan-hao.notion.site/3ad3ee8bac77467298c9f9be0ed8a041?v=15c192b66a0644a6
 In Agent4EDU, we only provide publicly available information such as titles and abstracts of relevant literature. Additionally, the copyright for other parts of Agent4EDU is reserved by its developers and their affiliated institutions.
 
 ### Support
-Thank you for your interest in Agent4EDU. If you have any questions, please contact us at Yuanhao.cs.edu@gmail.com.
+Thank you for your interest in Agent4EDU. If you have any questions, please contact us at yuanhao.cs.edu@gmail.com.
