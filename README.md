@@ -1,6 +1,6 @@
 <h3>Agent4EDU: An Online Literature Repository for Advancing Research in Agentic Education</h3>
 
-<div><img src="https://github.com/YuanHao-CS/Agent4EDU/blob/main/Sample%20of%20Agent4EDU.jpg?raw=true"></div>
+<div><img src="https://github.com/YuanHao-CS/Agent4EDU/blob/main/Part%20of%20Agent4EDU.jpg?raw=true"></div>
 
 
 Agent4EDU is an online literature repository designed to promote research in Agentic Education. In Agent4EDU, we provide literature related to the use of agents in facilitating teaching. Agent4EDU is developed by the Shanghai Institute of Artificial Intelligence for Education, East China Normal University.
